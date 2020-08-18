@@ -139,6 +139,7 @@ package_kodi-rbp3() {
   optdepends=(
     'afpfs-ng: Apple shares support'
     'bluez: Blutooth support'
+    'polkit: Shutdown/Restart Menu support'
     'python2-pybluez: Bluetooth support'
     'libplist: Limited AirPlay support'
     'lsb-release: log distro information in crashlog'
